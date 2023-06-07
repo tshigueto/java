@@ -19,6 +19,8 @@ public class Ranking{ //criando classe Ranking
   }  
 
   public static void imprimirRanking (ArrayList<Ranking>lista){ //método para imprimir o Rankgin
-    System.out.println(lista);
+    for(Raking item: lista){
+    System.out.println(item);
+    }
   }
 }
