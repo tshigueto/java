@@ -1,4 +1,4 @@
-import java.util.*; //importar Scanner
+import java.util.*; //importar java.util toda
 
 class ProjetoFinal{ //criando classe ProjetoFinal
   

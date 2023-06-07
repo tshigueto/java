@@ -1,4 +1,4 @@
-import java.util.*; //importar Scanner
+import java.util.*; //importar java.util toda
 
 public class Kiko{ //criando classe Chaves
   
