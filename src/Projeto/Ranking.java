@@ -17,6 +17,7 @@ public class Ranking{ //criando classe Ranking
   public void setNome(String nome){
     this.nome = nome;
   }  
+
   public static void imprimirRanking (ArrayList<Ranking>lista){ //método para imprimir o Rankgin
     System.out.println(lista);
   }

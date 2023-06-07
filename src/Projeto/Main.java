@@ -11,6 +11,7 @@ class ProjetoFinal{ //criando classe ProjetoFinal
     Chaves cha = new Chaves(); //criando classe Chaves
     Chiquinha chi = new Chiquinha(); //criando classe Chiquinha
     Kiko kik = new Kiko(); //criando classe Kiko
+    Ranking r = new Ranking(); //criando classe Ranking
         
     int opcao = 1; //criando uma variável para ficar no laço de repetição enquanto usuário não decidir sair
     

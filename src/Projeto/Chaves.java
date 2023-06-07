@@ -234,6 +234,7 @@ public class Chaves{ //criando classe Chaves
     }
 
       r.setPonto(contador);
+      lista.add(r);
     }
   
   

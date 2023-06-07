@@ -220,6 +220,7 @@ public class Chiquinha{ //criando classe Chaves
               }
 
         r.setPonto(contador);
+        lista.add(r);
       
     }
   }

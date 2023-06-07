@@ -3,22 +3,7 @@ import java.util.*; //importar java.util toda
 public class Kiko{ //criando classe Chaves
   
   public static Scanner ler = new Scanner(System.in); //criando Scanner para interação com usuário
-  
-  private String nome; //declarando variável
-  private int pontos; //declarando variável
-
-  public String getNome(){ //criando método GET para pegar variável
-    return this.nome ;
-  }
-  
-  public void setNome(String nome){ //criando método SET para manipular variável
-    this.nome = nome;
-  }
-  
-  public int getPontos(){ //criando método GET para pegar variável
-    return this.pontos ;
-  }
-  
+   
   public void setPontos(int pontos){ //criando método SET para manipular variável
     this.pontos = pontos;
   }
@@ -239,6 +224,7 @@ public class Kiko{ //criando classe Chaves
             }
 
       r.setPonto(contador);
+      lista.add(r);
     }
   }
   
