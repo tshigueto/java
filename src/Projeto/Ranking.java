@@ -20,7 +20,7 @@ public class Ranking{ //criando classe Ranking
 
   public static void imprimirRanking (ArrayList<Ranking>lista){ //método para imprimir o Rankgin
     for(Raking item: lista){
-    System.out.println(item);
+    System.out.println(item.getNome() + " " + item.getPonto() + " pontos\n");
     }
   }
 }
